@@ -1,6 +1,6 @@
 # Surrogate Source Model Learning for Determined Source Separation
 
-Code to reproduce the results in the paper "Surrogate Source Model Learning for Determined Source Separation"
+Code to reproduce the results in the paper ["Surrogate Source Model Learning for Determined Source Separation"](https://ieeexplore.ieee.org/abstract/document/9414255)
 
 **We are working on releasing the code for this paper. Please check back in a few days.**
 
