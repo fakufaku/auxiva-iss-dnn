@@ -1,8 +1,7 @@
 # Surrogate Source Model Learning for Determined Source Separation
 
-Code to reproduce the results in the paper ["Surrogate Source Model Learning for Determined Source Separation"](https://ieeexplore.ieee.org/abstract/document/9414255)
-
 :warning: **The code to train IVA models as described in this paper was shared in the [torchiva](https://github.com/fakufaku/torchiva) package.**
+
 Please refer to its [documentation](https://torchiva.readthedocs.io/en/latest/) for more details.
 
 ## Abstract
